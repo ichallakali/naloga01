@@ -10,4 +10,4 @@ amend demo
 forget lkine
 detached demo note
 Build: passing
-Power operation ^
+- Fix: crash on divide by zero
