@@ -10,3 +10,4 @@ amend demo
 forget lkine
 detached demo note
 Build: passing
+Power operation ^
