@@ -10,4 +10,5 @@ amend demo
 forget lkine
 detached demo note
 Build: passing
-- Fix: crash on divide by zero
+- Fix: crash on divide by zer0
+small typo fix DEMO
