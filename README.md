@@ -5,3 +5,6 @@ Opomba iz forka (tester069691)
 NODE 1 SQUISED
 NODE 2 SQUISED
 cherry-pick demo: README fix
+temp edit not commiting
+amend demo
+forget lkine
