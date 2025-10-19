@@ -1,0 +1,3 @@
+[submodule "extern/mini-lib"]
+	path = extern/mini-lib
+	url = https://github.com/ichallakali/mini-lib.git
